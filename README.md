@@ -64,3 +64,49 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Admin Dashboard (Filament Customization)
+
+This is a custom Admin Dashboard built with Laravel and Filament. It includes features like tables, forms, CRUD operations, search and filter functionality, widgets, charts, and user authentication for login and registration.
+Features
+
+    User Authentication: Includes login and registration functionality.
+    CRUD Operations: Create, Read, Update, and Delete operations for managing data.
+    Search & Filter: Tables with search and filter options to easily manage and find data.
+    Widgets & Charts: Custom widgets and interactive charts to visualize important data.
+    Customizable Design: Tailored admin panel to fit your specific needs with Filament.
+
+Customization
+
+You can customize the dashboard as needed by editing the Filament resources, widgets, and charts. The following files are important for customization:
+
+    app/Filament/Resources: Manage the Filament resources (tables, forms, etc.).
+    app/Filament/Widgets: Customize or add widgets for the dashboard.
+    resources/views: Modify Blade views for the frontend.
+
+![cap1](https://github.com/user-attachments/assets/fe991678-3e8e-48b1-93dc-2951a3e37dce)
+
+![cap2](https://github.com/user-attachments/assets/cbfc60ce-b061-4fa6-919e-994e2b35a151)
+
+![cap3](https://github.com/user-attachments/assets/434b688b-5e63-44d4-9aa2-93b9fa2fc568)
+
+![cap4](https://github.com/user-attachments/assets/e8bc72b5-c610-4a71-8a9e-4a55e371b4a3)
+
+![cap5](https://github.com/user-attachments/assets/13d21466-3ab9-45ef-8037-baa3589e522e)
+
+![cap6](https://github.com/user-attachments/assets/fcf46a8c-3a46-40f3-96b2-9c3653f1470d)
+
+![cap7](https://github.com/user-attachments/assets/57749abd-75d5-4f18-9d71-4cba853d5ff7)
+
+![cap8](https://github.com/user-attachments/assets/e27ca82d-5760-4341-be5d-6be1c1e1dd07)
+
+![cap9](https://github.com/user-attachments/assets/83d5ffc3-9498-4834-83e5-c748d078b2c9)
+
+
+
+
+
+
+
+
+
